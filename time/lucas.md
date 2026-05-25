@@ -1,20 +1,20 @@
-# [Seu Nome Completo]
+# lucas henrique conde rodrigues
 
 ## Sobre mim
 
-Estudante de Ciência da Computação na Univértix, [N]º período.
+Estudante de Ciência da Computação na Univértix, 7º período.
 
 ## Objetivos com DevOps
 
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
+- Automatizar processos de deploy e integração contínua (CI/CD) para reduzir erros manuais.
+- Garantir que o ambiente de desenvolvimento seja o mais próximo possível do ambiente de produção.
+- Melhorar a colaboração e a velocidade de entrega de novas funcionalidades através de fluxos como o GitFlow.
 
 ## Tecnologias que já uso
 
-- [Tecnologia 1]
-- [Tecnologia 2]
+- github
+- Docker
 
 ## Contato
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@lucashenrique1011](https://github.com/lucashenrique1011)
